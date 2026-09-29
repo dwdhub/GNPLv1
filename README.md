@@ -1,8 +1,13 @@
 GENERAL NEW PUBLIC LICENSE (GNPL)
 Version 1.0 
 
-1. OWNERSHIP IDENTIFICATION & IDENTITY BY INVOICE PROOF
-The software, source code, and associated documentation are completely owned by the individual or entity who holds the official, valid domain registration invoices and billing receipts issued by the domain registrar for the web domain specified by the project deployer (hereafter referred to as the "Project Creator"). The Project Creator may identify themselves in project files using an alias, an "also known as" (aka) handle, or the phrase "Owned by the invoice-verified holder of [INSERT_YOUR_WEBSITE_HERE.com]". Confidential possession of the domain's purchase or renewal invoices shall serve as definitive, legally binding proof of ownership identity under this License without requiring the public disclosure of the owner's private personal details.
+1. OWNERSHIP IDENTIFICATION & IDENTITY BY HISTORICAL FINANCIAL RECORD
+The software, source code, and associated documentation are completely owned by the individual or entity who holds the official, valid domain registration invoice strictly tied to its corresponding payment receipt (including bank statements, credit card records, or financial application transaction logs) issued for the web domain specified by the project deployer (hereafter referred to as the "Project Creator").
+To establish an unalterable chain of ownership, the issuance date of the tied invoice and payment receipt must align chronologically with the establishment or public recording of the software project.
+The Project Creator may identify themselves in project files using an alias, an "also known as" (aka) handle, or the phrase "Owned by the invoice- and payment-verified holder of [INSERT_YOUR_WEBSITE_HERE.com]".
+Permanent Proof of Ownership:
+
+Confidential possession of these paired financial records, matching the historical timeframe of the project, shall serve as definitive, legally binding proof of ownership. This proof remains valid and legally binding even if the domain subsequently expires, fails to renew, is transferred, or is unlawfully intercepted or stolen at a later date. This mechanism protects the Project Creator's intellectual property without requiring the public disclosure of their private personal details.
 
 2. SOURCE CODE LICENSE & PERFORMANCE LIMITATIONS
 The Project Creator hereby grants You a worldwide, royalty-free, non-exclusive license, subject to third-party intellectual property claims, to use, reproduce, display, and run the Original Code strictly for limited internal operational use. Your rights to modify the code or distribute it are strictly limited by and subject to the conditions defined in Clause 3. You are explicitly and strictly prohibited from using this software, its source code, or any derivative works to:
