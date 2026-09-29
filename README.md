@@ -51,4 +51,4 @@ In the event that this software, its source code, or any derivative works are co
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE PROJECT CREATOR OR THE INVOICE-VERIFIED DOMAIN HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## License
-This project is licensed under the **General New Public License (GNPL) v1.0** created to ensure fairness, keep the project self-sustaining, and help the community flourish. It is free for standard internal use; see the [LICENSE](./LICENSE) file for specific rules regarding modifications for commercial products, government use, and code contributions.
+This project is licensed under the **General New Public License (GNPL) v1.0** created to ensure fairness, keep the project self-sustaining, and help the community flourish.; see the [LICENSE](./LICENSE) file for specific rules regarding modifications for commercial products, government use, and code contributions.
