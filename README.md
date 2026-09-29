@@ -7,9 +7,11 @@ Ownership validity is established by chronologically matching:
 • The Project Identity: The designated Project Name and Website Domain.
 • The Financial Timestamp: The issuance dates on the paired invoice and payment receipt.
 • The Public Record: The publication timestamp within a verifiable public archive (such as GitHub GitLab GiTea Online Sites).
+
 DATA DISCREPANCIES & PRIVACY:
 If the name or email on the registrar invoice differs from the payment receipt (e.g., due to privacy setups or anti-spam aliases), ownership is proven by providing any linking registrar and vendor correspondence, confirmation emails, or account logs that connect the transaction to the domain.
 The Project Creator may remain anonymous by using an alias, handle, or the phrase: "Owned by the invoice- and payment-verified holder of [INSERT_YOUR_WEBSITE_HERE.com]".
+
 PERMANENCE OF PROOF:
 Confidential possession of these cross-referenced historical records serves as definitive ownership proof. This proof remains permanently valid even if the domain later expires, fails to renew, is transferred, or is stolen, completely protecting the creator's intellectual property without public identity disclosure.
 
