@@ -1,8 +1,17 @@
 GENERAL NEW PUBLIC LICENSE (GNPL)
 Version 1.0 
 
-1. OWNERSHIP IDENTIFICATION & IDENTITY BY INVOICE PROOF
-The software, source code, and associated documentation are completely owned by the individual or entity who holds the official, valid domain registration invoices and billing receipts issued by the domain registrar for the web domain specified by the project deployer (hereafter referred to as the "Project Creator"). The Project Creator may identify themselves in project files using an alias, an "also known as" (aka) handle, or the phrase "Owned by the invoice-verified holder of [INSERT_YOUR_WEBSITE_HERE.com]". Confidential possession of the domain's purchase or renewal invoices shall serve as definitive, legally binding proof of ownership identity under this License without requiring the public disclosure of the owner's private personal details.
+1. OWNERSHIP IDENTIFICATION & HISTORICAL RECORD PROOF
+The software, source code, and documentation are entirely owned by the individual or entity (the "Project Creator") holding the official domain registration invoice explicitly tied to its corresponding financial payment receipt (bank statement, credit card record, or finance app log) for the specified project web domain and its direct public archive (such as GitHub, GitLab, Gitea, or an online site/post).
+Ownership validity is established by chronologically matching:
+• The Project Identity: The designated Project Name and Website Domain.
+• The Financial Timestamp: The issuance dates on the paired invoice and payment receipt.
+• The Public Record: The publication timestamp within a verifiable public archive.
+
+If the identity or email on the registrar invoice differs from the payment receipt due to privacy configurations or anti-spam aliases, ownership is verified by any linking registrar correspondence or account logs connecting the transaction to the domain.
+The Project Creator may remain anonymous by using an alias, handle, or the phrase: "Owned by the invoice- and payment-verified holder of [INSERT_YOUR_WEBSITE_HERE.com]".
+
+Confidential possession of these cross-referenced historical records serves as definitive ownership proof. This proof remains permanently valid notwithstanding any subsequent domain expiration, non-renewal, transfer, or unlawful interception.
 
 2. SOURCE CODE LICENSE & PERFORMANCE LIMITATIONS
 The Project Creator hereby grants You a worldwide, royalty-free, non-exclusive license, subject to third-party intellectual property claims, to use, reproduce, display, and run the Original Code strictly for limited internal operational use. Your rights to modify the code or distribute it are strictly limited by and subject to the conditions defined in Clause 3. You are explicitly and strictly prohibited from using this software, its source code, or any derivative works to:
